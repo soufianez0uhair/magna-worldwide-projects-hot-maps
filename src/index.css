@@ -1,3 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+html {
+  font-size: 62.5%;
+}
+
+@font-face {
+  font-family: "kartika regular";
+  src: url("./assets/fonts/KartikaRegular.ttf") format("woff");
+}
+body {
+  font-family: "kartika regular", "sans-serif";
+}
+
+.SplitScreen {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 
 /*# sourceMappingURL=index.css.map */
