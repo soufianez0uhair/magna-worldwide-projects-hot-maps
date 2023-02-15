@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-import SignUp from "./components/SignUp";
+import SignUpForm from "./components/SignUpForm";
 import SplitScreen from "./layout/SplitScreen";
 
 const App = () => {
@@ -9,7 +9,7 @@ const App = () => {
     <Router>
       <main className="App">
         <Routes>
-          <Route path="/user/signup" element={<SplitScreen children={[Left,SignUp]} />} />
+          <Route path="/user/signup" element={<SplitScreen children={[Left,SignUpForm]} />} />
         </Routes>
       </main>
     </Router>

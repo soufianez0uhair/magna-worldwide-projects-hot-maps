@@ -1,8 +1,6 @@
-@font-face{
-  font-family:'kartika regular';
-  src:url("./assets/fonts/KartikaRegular.ttf") format("woff")
-}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
 
 body {
-  font-family: 'kartika regular', 'sans-serif';
+  font-family: 'Quicksand', 'sans-serif';
+  font-weight: 400;
 }

@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["sass/base/_base.scss","sass/base/_typography.scss","sass/layout/_SplitScreen.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;;;AAGF;EACE;;;ACPF;EACE;EACA;;AAGF;EACE;;;ACNF;EACE;EACA","file":"index.css"}
+{"version":3,"sourceRoot":"","sources":["sass/base/_typography.scss","sass/base/_base.scss","sass/layout/_SplitScreen.scss"],"names":[],"mappings":"AAAQ;ACAR;EACE;EACA;EACA;;;AAGF;EACE;;;ADLF;EACE;EACA;;;AEJF;EACE;EACA","file":"index.css"}
