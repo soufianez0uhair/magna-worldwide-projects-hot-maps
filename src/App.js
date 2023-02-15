@@ -1,6 +1,14 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
 const App = () => {
   return (
-    <h1>App component</h1>
+    <Router>
+      <main className="App">
+        <Routes>
+          
+        </Routes>
+      </main>
+    </Router>
   )
 }
 
